@@ -23,5 +23,9 @@
   "devDependencies": {
     "vsce": "^2.15.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/lemon-crash"
+  }
 }
