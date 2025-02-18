@@ -1,16 +1,45 @@
-# espresso-mode README
+# 🍋 Lemon Crash - VS Code Theme
 
-## Working with Markdown
+Lemon Crash is a vibrant and modern theme for Visual Studio Code, designed to provide a fresh and energizing coding experience.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## ✨ Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- 🎨 **Bold and contrasting colors** for improved readability.
+- 🌙 **Dark mode** optimized for long coding sessions.
+- 💻 **Clean and minimalist design** to reduce visual fatigue.
+- 🏎 **High performance**, without affecting editor speed.
 
-## For more information
+## 📥 Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open **Visual Studio Code**.
+2. Go to the **Extensions** section (`Ctrl+Shift+X` / `Cmd+Shift+X`).
+3. Search for **"Lemon Crash"**.
+4. Click **Install**.
+5. Activate the theme from `Preferences > Color Theme > Lemon Crash`.
 
-**Enjoy!**
+## 🖼 Screenshots
+
+[Lemon Crash Theme Preview](images/Example.webp)
+
+## 🛠 Customization
+
+If you want to tweak some colors, you can do so from `settings.json`:
+
+```json
+"workbench.colorCustomizations": {
+  "editor.background": "#1e1e1e",
+  "editor.foreground": "#f8f8f2"
+}
+```
+
+## 📌 Contribute
+
+If you have suggestions or find issues, open an **issue** in our [GitHub repository](https://github.com/MeierAlexis/lemon-crash).
+
+## 📜 License
+
+This theme is licensed under **MIT**.
+
+---
+
+🚀 Enjoy coding with Lemon Crash! 🍋

@@ -1,8 +1,10 @@
 {
-  "name": "Lemon Crash",
+  "name": "lemon-crash",
   "displayName": "Lemon Crash",
   "description": "",
-  "version": "0.0.1",
+  "publisher": "AlexisMeier",
+  "url": "https://github.com/tu-usuario/lemon-crash",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.97.0"
   },
@@ -12,10 +14,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Espresso Mode",
+        "label": "Lemon Crash",
         "uiTheme": "vs-dark",
-        "path": "./themes/Espresso Mode-color-theme.json"
+        "path": "./themes/Lemon Crash-color-theme.json"
       }
     ]
-  }
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  },
+  "license": "MIT"
 }
