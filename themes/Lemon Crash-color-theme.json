@@ -18,20 +18,22 @@
     "terminal.foreground": "#f4f4c3",
     "terminalCursor.background": "#FFD700",
     "terminalCursor.foreground": "#dddddd85",
-    "button.background": "#D4E157",
+    "button.background": "#FFD700",
     "button.foreground": "#000000",
+
     "inputOption.activeBorder": "#D4E157",
     "list.activeSelectionBackground": "#d3e1573a",
-    "list.activeSelectionForeground": "#000000",
+
     "activityBarBadge.background": "#d3e157",
     "activityBarBadge.foreground": "#000000",
     "editorGroup.border": "#000000",
     "sideBarActivityBarTop.border": "#000000",
     "list.focusOutline": "#D4E157",
-
+    "list.highlightForeground": "#FFD700",
     "activityBar.activeBorder": "#D4E157",
     "tab.activeBorder": "#D4E157",
     "window.activeBorder": "#D4E157",
+
     "focusBorder": "#D4E157",
 
     "textLink.activeForeground": "#D4E157",
@@ -46,6 +48,7 @@
         "foreground": "#f4f4c37a" // Complementary teal (for dark chocolate)
       }
     },
+
     {
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
@@ -428,7 +431,7 @@
       "name": "Markdown - Markup Raw Inline",
       "scope": ["text.html.markdown markup.inline.raw.markdown"],
       "settings": {
-        "foreground": "#82B1FF"
+        "foreground": "#FFD700"
       }
     },
     {
@@ -508,14 +511,14 @@
       "name": "Markdown - Link",
       "scope": ["string.other.link.title.markdown"],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#FFD700"
       }
     },
     {
       "name": "Markdown - Link Description",
       "scope": ["string.other.link.description.title.markdown"],
       "settings": {
-        "foreground": "#82B1FF"
+        "foreground": "#FFD700"
       }
     },
     {
@@ -529,7 +532,7 @@
       "name": "Markup - Raw Block",
       "scope": ["markup.raw.block"],
       "settings": {
-        "foreground": "#82B1FF"
+        "foreground": "#FFD700"
       }
     },
     {

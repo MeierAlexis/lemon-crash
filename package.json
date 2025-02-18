@@ -4,6 +4,7 @@
   "description": "",
   "publisher": "AlexisMeier",
   "url": "https://github.com/tu-usuario/lemon-crash",
+  "icon": "images/Logo.webp",
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.97.0"
